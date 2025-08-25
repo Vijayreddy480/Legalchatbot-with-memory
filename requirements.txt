@@ -1,0 +1,11 @@
+mem0ai
+google-genai
+streamlit
+chainlit
+ipykernel
+Pinecone
+langchain
+unstructured[all]
+pymupdf
+pytesseract
+pillow
